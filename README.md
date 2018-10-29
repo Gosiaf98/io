@@ -1,5 +1,5 @@
 # io
-Gosia
+Malgosia
 29.10.2018
 informatyka
 deszczowo
